@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+
+# Arquivos de referência usados para montar a página
+Landing_Page.png
+roteiro_filmes.pdf
+imagens/
